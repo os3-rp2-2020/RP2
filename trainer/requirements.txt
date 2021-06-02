@@ -61,7 +61,7 @@ threadpoolctl==2.1.0
 tld==0.12.2
 ufw==0.36
 unattended-upgrades==0.1
-urllib3==1.25.9
+urllib3==1.26.5
 vboxapi==1.0
 whois==0.9.7
 zope.component==4.3.0
