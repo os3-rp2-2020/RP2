@@ -24,7 +24,7 @@ matplotlib==2.1.1
 mock==2.0.0
 ndg-httpsclient==0.4.4
 netifaces==0.10.4
-numpy==1.19.0
+numpy==1.22.0
 olefile==0.45.1
 pandas==1.0.5
 parsedatetime==2.4
