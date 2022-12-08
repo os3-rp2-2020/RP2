@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 binwalk==2.1.1
 certbot==0.31.0
 certbot-nginx==0.31.0
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 command-not-found==0.3
 ConfigArgParse==0.11.0
